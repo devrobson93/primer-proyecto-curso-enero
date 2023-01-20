@@ -1,0 +1,35 @@
+html {
+    background-color: grey;
+  }
+  
+  .post {
+      background-color: white;
+      margin: 10px auto;
+      width: 80%;
+      height: auto;
+      padding: 15px;
+  }
+  .header {
+    height: 40px;
+  }
+  .left {
+    width: 20%;
+    float: left;
+    text-align: left;
+  }
+  .right {
+    width: 79%;
+    float: right;
+    text-align: end;
+  }
+  #opciones {
+    float: right;
+  }
+  .imagen img {
+    width: 100%;
+  }
+  p {
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: justify;
+  }
